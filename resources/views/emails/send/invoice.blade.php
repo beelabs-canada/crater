@@ -28,7 +28,7 @@
     {{-- Footer --}}
     @slot('footer')
         @component('mail::footer')
-            Powered by <a class="footer-link" href="https://craterapp.com">Crater</a>
+            © Copyright 2022 Beelabs Canada
         @endcomponent
     @endslot
 @endcomponent
